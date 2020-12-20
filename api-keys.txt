@@ -1,0 +1,2 @@
+Your active SANDBOX API key is: 9bf43e54a06ecfb71fc0ada5e3bd9498, and secret is: ed0d29cf868bc75da48671eb69fdf8e43571b8e3675aa7b92f244a546a84edcc.
+Your pending approval PROD API key is: 86f0e126500e64266d8ab74d39a2c524, and secret is: 78767b912e1439bfe88873e7720049c4e6072acddcb480e9be51b99162ac72de.
